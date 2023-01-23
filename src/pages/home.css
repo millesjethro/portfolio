@@ -1,0 +1,125 @@
+@media only screen and (max-width: 875px) and (min-width: 320px ){
+    .introduction{
+         background-color: white;
+         display: flex;
+         flex-direction: column;
+         position:relative;
+         top: 10px;
+         left: 10px;
+         height: 80px;
+    }
+    .hello{
+         font-size: 30px;
+    }
+    .name{
+         font-size: 20px;
+    }
+    .start{
+         position: relative;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+         width: max-content;  
+    }
+    .imginfo{
+         border-radius: 10px;
+         width: 90%;
+    }
+    .list{
+         position: absolute;
+    }
+    ul{
+         position: relative;
+         top: -20px;
+         left:-70px;
+
+    }
+    li{
+         position: relative;
+         top: 10px;
+         left: 30px;
+    }
+    .middle{
+         position: relative;
+         left: 20px;
+         top: 20px;
+         margin-bottom: 10px;
+         border-radius: 10px;
+         display: flex;
+         flex-direction: row;
+         align-items: center;
+         gap: 30px;
+         height: 100px;
+         width: 90%;
+         
+    }
+    .first{
+         background-color: #f4faf4;
+    }
+    .second{
+         background-color: #fef6f4;
+    }
+    .third{
+         background-color: #f3f8fd;
+    }
+    .fontbasic{
+         font-size: 20px;
+    }
+    .icon{
+          position: relative;
+          left: 10px;
+          border-radius: 10px;
+          
+          height: 65px;
+    }
+    .ifirst{
+          background-color: aquamarine;
+    }
+    .isecond{
+          background-color:coral;
+    }
+    .ithird{
+          background-color: #67abee;
+    }
+    .fourt{
+          background-color: #faf3fd;
+    }
+
+    .information{
+          position: relative;
+          top: 30px;
+          left:50px;
+          height: 120px;
+          width: 90%;
+    }
+    .last{
+          position: relative;
+          left: 40px;
+          top: 20px;
+          margin-bottom: 10px;
+          border-radius: 10px;
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          gap: 30px;
+          height: 100px;
+          width: 80%;
+     
+    }
+    .btndisplay{
+          position: relative;
+          top:5px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          gap: 5px;
+     }
+     .imgprot{
+          position: relative;
+          top:10px;
+          left: 40px;
+          height: 300px;
+          width: 80%;
+     }
+}
